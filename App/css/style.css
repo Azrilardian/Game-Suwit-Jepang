@@ -7,7 +7,7 @@ html body * {
 html body {
 	background-color: #141414;
 	position: relative;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 body,
@@ -129,7 +129,6 @@ p.info {
 	background-color: #00000088;
 	transition: all 0.7s;
 	z-index: 99;
-	overflow: hidden;
 }
 
 .overlay.on {
