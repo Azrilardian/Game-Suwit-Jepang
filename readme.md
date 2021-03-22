@@ -19,3 +19,9 @@ Pembuatan _game_ ini bertujuan untuk mengasah logika pemrograman dan bagaimana m
 ## Fitur
 
 -   Repsonsif pada semua ukuran _device_
+
+## Screenshot
+
+![Screenshot satu](./Screenshot/1.png)
+
+![Screenshot dua](./Screenshot/2.png)
